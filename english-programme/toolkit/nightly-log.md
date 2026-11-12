@@ -7,7 +7,7 @@ Copy these tables into a spreadsheet, notes app or notebook. Filling them in tak
 ## Baseline (Week 1 Day 1, keep forever)
 
 | Date | Prompt | Fillers | Long pauses | Connectors |
-|---|---|---|---|---|
+|12 Nov, 2026|---|---|---|---|
 | | | | | |
 
 ## Every night
