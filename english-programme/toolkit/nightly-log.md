@@ -8,7 +8,7 @@ Copy these tables into a spreadsheet, notes app or notebook. Filling them in tak
 
 | Date | Prompt | Fillers | Long pauses | Connectors |
 |---|---|---|---|---|
-| | | | | |
+| 12 Nov 2026 | Tell me about a day that didn't go as planned | 15 | 8 | 5 |
 
 ## Every night
 

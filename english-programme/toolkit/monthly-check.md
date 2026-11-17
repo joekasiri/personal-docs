@@ -15,20 +15,22 @@ At the end of every month (Day 6 of weeks 4, 8, 12, 16, 20 and 24) you add a mon
 
 ## Targets (compared with your baseline)
 
-| End of month | Fillers + long pauses | Different connectors in 2 min | Also check |
-|---|---|---|---|
-| 1 | about 15% fewer | 4+ | You can tell a practised story without stopping |
-| 2 | about 25% fewer | 5+ | You give an opinion and a reason in under a minute |
-| 3 | about 33% fewer | 6+ | 2 minutes on a random topic with zero prep |
-| 4 | about 40% fewer | 6+ | You joined in at least one group conversation |
-| 5 | about 45% fewer | 7+ | You handled an unexpected question at work |
-| 6 | about half | 8+ | You don't translate in your head in casual chat |
+Your baseline (12 Nov 2026): **15 fillers + 8 long pauses = 23**, and **5 connectors**.
+
+| End of month | Fillers + long pauses | Your target | Different connectors in 2 min | Also check |
+|---|---|---|---|---|
+| 1 | about 15% fewer | 20 or fewer | 4+ | You can tell a practised story without stopping |
+| 2 | about 25% fewer | 17 or fewer | 5+ | You give an opinion and a reason in under a minute |
+| 3 | about 33% fewer | 15 or fewer | 6+ | 2 minutes on a random topic with zero prep |
+| 4 | about 40% fewer | 14 or fewer | 6+ | You joined in at least one group conversation |
+| 5 | about 45% fewer | 13 or fewer | 7+ | You handled an unexpected question at work |
+| 6 | about half | 11–12 or fewer | 8+ | You don't translate in your head in casual chat |
 
 ## Results table
 
 | Month | Date | Fillers | Long pauses | Total | vs baseline (%) | Connectors | Phrases with 3 ticks | Target met? |
 |---|---|---|---|---|---|---|---|---|
-| Baseline | | | | | — | | — | — |
+| Baseline | 12 Nov 2026 | 15 | 8 | 23 | — | 5 | — | — |
 | 1 | | | | | | | | |
 | 2 | | | | | | | | |
 | 3 | | | | | | | | |
